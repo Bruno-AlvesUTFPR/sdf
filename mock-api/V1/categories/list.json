@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "CAMISETAS",
+      "path": "camisetas"
+    },
+    {
+      "id": 2,
+      "name": "CALÇAS",
+      "path": "calcas"
+    },
+    {
+      "id": 3,
+      "name": "CALÇADOS",
+      "path": "sapatos"
+    },
+    {
+      "id": 4,
+      "name": "ROUPAS",
+      "path": "roupas"
+    }
+  ]
+}
+

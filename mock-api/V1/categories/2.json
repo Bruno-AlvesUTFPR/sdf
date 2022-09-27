@@ -1,0 +1,121 @@
+{
+  "filters": [
+      {
+          "gender": "Gênero"
+      }
+  ],
+  "items": [
+    {
+      "id": 10,
+      "sku": "sku-10",
+      "path": "calca-social",
+      "name": "Calça Social",
+      "image": "pants-1.jpg",
+      "price": 39.9,
+      "specialPrice": 29.9,
+      "gender": "Masculina"
+    },
+    {
+      "id": 11,
+      "sku": "sku-11",
+      "path": "calca-feminina",
+      "name": "Calça Feminina",
+      "image": "pants-2.jpg",
+      "price": 24.15,
+      "gender": "Feminina"
+    },
+    {
+      "id": 12,
+      "sku": "sku-12",
+      "path": "calca-la-feminina",
+      "name": "Calça de Lã Feminina",
+      "image": "pants-3.jpg",
+      "price": 61.49,
+      "gender": "Feminina"
+    },
+    {
+      "id": 13,
+      "sku": "sku-13",
+      "path": "calca-caminhada-masculina",
+      "name": "Calça Caminhada Masculina",
+      "image": "pants-4.jpg",
+      "price": 70.0,
+      "specialPrice": 58,
+      "gender": "Masculina"
+    },
+    {
+      "id": 14,
+      "sku": "sku-14",
+      "path": "calca-caminhada-feminina",
+      "name": "Calça Caminhada Feminina",
+      "image": "pants-5.jpg",
+      "price": 70.0,
+      "gender": "Feminina"
+    },
+    {
+      "id": 15,
+      "sku": "sku-10",
+      "path": "calca-social",
+      "name": "Calça Social",
+      "image": "pants-1.jpg",
+      "price": 39.9,
+      "specialPrice": 29.9,
+      "gender": "Masculina"
+    },
+    {
+      "id": 16,
+      "sku": "sku-11",
+      "path": "calca-feminina",
+      "name": "Calça Feminina",
+      "image": "pants-2.jpg",
+      "price": 24.15,
+      "gender": "Feminina"
+    },
+    {
+      "id": 17,
+      "sku": "sku-12",
+      "path": "calca-la-feminina",
+      "name": "Calça de Lã Feminina",
+      "image": "pants-3.jpg",
+      "price": 61.49,
+      "gender": "Feminina"
+    },
+    {
+      "id": 18,
+      "sku": "sku-13",
+      "path": "calca-caminhada-masculina",
+      "name": "Calça Caminhada Masculina",
+      "image": "pants-4.jpg",
+      "price": 70.0,
+      "specialPrice": 58,
+      "gender": "Masculina"
+    },
+    {
+      "id": 19,
+      "sku": "sku-14",
+      "path": "calca-caminhada-feminina",
+      "name": "Calça Caminhada Feminina",
+      "image": "pants-5.jpg", 
+      "price": 70.0,
+      "gender": "Feminina"
+    },
+    {
+      "id": 20,
+      "sku": "sku-14",
+      "path": "calca-caminhada-feminina",
+      "name": "Calça Caminhada Feminina",
+      "image": "pants-5.jpg",
+      "price": 70.0,
+      "gender": "Feminina"
+    },
+    {
+      "id": 21,
+      "sku": "sku-12",
+      "path": "calca-la-feminina",
+      "name": "Calça de Lã Feminina",
+      "image": "pants-3.jpg",
+      "price": 61.49,
+      "gender": "Feminina"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "filters": [
+      {
+          "color": "Cor" 
+      }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "sku": "sku-1", 
+      "path": "camiseta-preta",
+      "name": "Camiseta Preta",
+      "image": "shirt-1.jpg",
+      "price": 59.9,
+      "color": "Preta"
+    },
+    {
+      "id": 2,
+      "sku": "sku-2",
+      "path": "camiseta-laranja",
+      "name": "Camiseta Laranja",
+      "image": "shirt-2.jpg",
+      "price": 40.5,
+      "color": "Laranja"
+    },
+    {
+      "id": 3,
+      "sku": "sku-3",
+      "path": "camiseta-amarela",
+      "name": "Camiseta Amarela",
+      "image": "shirt-3.jpg",
+      "price": 61.49,
+      "color": "Amarela"
+    },
+    {
+      "id": 4,
+      "sku": "sku-4",
+      "path": "camiseta-rosa",
+      "name": "Camiseta Rosa",
+      "image": "shirt-4.jpg",
+      "price": 52.0,
+      "color": "Rosa"
+    },
+    {
+      "id": 5,
+      "sku": "sku-1",
+      "path": "camiseta-preta",
+      "name": "Camiseta Preta",
+      "image": "shirt-1.jpg",
+      "price": 59.9,
+      "color": "Preta"
+    },
+    {
+      "id": 6,
+      "sku": "sku-2",
+      "path": "camiseta-laranja",
+      "name": "Camiseta Laranja",
+      "image": "shirt-2.jpg",
+      "price": 40.5,
+      "color": "Laranja"
+    },
+    {
+      "id": 7,
+      "sku": "sku-3",
+      "path": "camiseta-amarela",
+      "name": "Camiseta Amarela",
+      "image": "shirt-3.jpg",
+      "price": 61.49,
+      "color": "Amarela"
+    },
+    {
+      "id": 8,
+      "sku": "sku-4",
+      "path": "camiseta-rosa",
+      "name": "Camiseta Rosa",
+      "image": "shirt-4.jpg",
+      "price": 52.0,
+      "color": "Rosa"
+    },
+    {
+      "id": 9,
+      "sku": "sku-1",
+      "path": "camiseta-preta",
+      "name": "Camiseta Preta",
+      "image": "shirt-1.jpg",
+      "price": 59.9,
+      "color": "Preta"
+    },
+    {
+      "id": 10,
+      "sku": "sku-2",
+      "path": "camiseta-laranja",
+      "name": "Camiseta Laranja",
+      "image": "shirt-2.jpg",
+      "price": 40.5,
+      "color": "Laranja"
+    },
+    {
+      "id": 11,
+      "sku": "sku-3",
+      "path": "camiseta-amarela",
+      "name": "Camiseta Amarela",
+      "image": "shirt-3.jpg",
+      "price": 61.49,
+      "color": "Amarela"
+    },
+    {
+      "id": 12,
+      "sku": "sku-4",
+      "path": "camiseta-rosa",
+      "name": "Camiseta Rosa",
+      "image": "shirt-4.jpg",
+      "price": 52.0,
+      "color": "Rosa"
+    },
+    {
+      "id": 13,
+      "sku": "sku-2",
+      "path": "camiseta-laranja",
+      "name": "Camiseta Laranja",
+      "image": "shirt-2.jpg",
+      "price": 40.5,
+      "color": "Laranja"
+    },
+    {
+      "id": 14,
+      "sku": "sku-3",
+      "path": "camiseta-amarela",
+      "name": "Camiseta Amarela",
+      "image": "shirt-3.jpg",
+      "price": 61.49,
+      "color": "Amarela"
+    },
+    {
+      "id": 15,
+      "sku": "sku-4",
+      "path": "camiseta-rosa",
+      "name": "Camiseta Rosa",
+      "image": "shirt-4.jpg",
+      "price": 52.0,
+      "color": "Rosa"
+    }
+  ]
+}

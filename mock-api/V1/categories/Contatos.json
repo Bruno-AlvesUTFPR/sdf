@@ -1,0 +1,26 @@
+[
+    {
+        "logo": "bx bxl-linkedin-square",
+        "name": "LinkedIn",
+        "text": "Acesse e siga meu Linkedin, pois lá posto resultados finais de projetos feitos, em sua totatilidade, feitos individuais.",
+        "url": "https://www.linkedin.com/in/bruno-alves-0bbbb5202/"
+    }, 
+    {
+        "logo": "bx bxl-github",
+        "name": "Github",
+        "text": "Acesse e siga meu Github, pois lá posto resultados finais de projetos feitos, em sua totatilidade, feitos individuais.",
+        "url": "https://github.com/Bruno-AlvesBR"
+    }, 
+    {
+        "logo": "bx bxl-gmail",
+        "name": "E-mail",
+        "text": "Para entrar em contato comigo, basta entrar em contato comigo via email, uso bastante dele para comunicação junto a outros aplicativos.",
+        "url": "mailto:brunoph.faces12@gmail.com"
+    }, 
+    {
+        "logo": "bx bxl-instagram",
+        "name": "Instagram",
+        "text": "Me siga no instagram, pois lá também utilizo como plataforma de comunicação, no momento não tem muita coisa, mas futuramente darei 'vida' ao perfil.",
+        "url": "https://www.instagram.com/bodao_code/"
+    }
+]
